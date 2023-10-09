@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://genegps.com/a3fdcdaa93a4361fca992f9da60d1f32.jpeg" class="floatpic" width="360" height="480">
+<img src="images/a3fdcdaa93a4361fca992f9da60d1f32.jpeg" class="floatpic" width="360" height="480">
 
 Here is **Yadong Yang (杨亚东)**.
 
