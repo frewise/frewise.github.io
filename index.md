@@ -6,9 +6,10 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Yadong Yang (杨亚东)**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I work as a research assistant in the **IACTIP Lab** (Provincial Key Laboratory), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am now working in Biochain Institute as director of **Bioinfrmatics**. 
+Currently, I am developing products and services for cancer diagnostics. Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
 
 <br>
 
