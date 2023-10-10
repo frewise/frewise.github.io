@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images/a3fdcdaa93a4361fca992f9da60d1f32.jpeg" class="floatpic" width="360" height="480">
+<img src="images/yangyadong.jpg" class="floatpic" width="360" height="480">
 
 Here is **Yadong Yang (杨亚东)**.
 
@@ -15,12 +15,11 @@ Currently, I am developing products and services for cancer diagnostics. Here is
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and graduate in 2025. Looking for PhD position after MSc!
+
+- **Sep 2015 - Jul 2018:** University of Chinese Academy of Sciences (Ph.D)
+- **Sep 2008 - Jul 2011:** Beijing Institute of Genomics, Chinese Academy of Sciences (Master of Bioninformatics)
+- **Sep 2004 - Jul 2008:** Beijing Technology and Business University (Bachlor of Bioengineering)
 
 <br>
 
