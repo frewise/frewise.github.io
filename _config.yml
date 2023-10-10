@@ -40,6 +40,7 @@ links:
     url: /publications/
   - title: Awards
     #url: /awards/
+    external: true
     url: http://library.genegps.com
   - title: Fundings
     url: /fundings/
