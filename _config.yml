@@ -40,8 +40,8 @@ links:
     url: /publications/
   - title: Library
     #url: /awards/
-    external: true
     url: http://library.genegps.com
+    external: true
   - title: Fundings
     url: /fundings/
   - title: Hobbies
