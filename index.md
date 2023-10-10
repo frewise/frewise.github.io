@@ -8,7 +8,7 @@ layout: page
 
 Here is **Yadong Yang (杨亚东)**.
 
-I am now working in Biochain Institute as director of **Bioinfrmatics**. 
+I am now working in Biochain Institute as director of **Bioinformatics**. 
 Currently, I am developing products and services for cancer diagnostics. Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
 
 <br>
@@ -18,8 +18,8 @@ Currently, I am developing products and services for cancer diagnostics. Here is
 
 
 - **Sep 2015 - Jul 2018:** University of Chinese Academy of Sciences (Ph.D)
-- **Sep 2008 - Jul 2011:** Beijing Institute of Genomics, Chinese Academy of Sciences (Master of Bioninformatics)
-- **Sep 2004 - Jul 2008:** Beijing Technology and Business University (Bachlor of Bioengineering)
+- **Sep 2008 - Jul 2011:** Beijing Institute of Genomics, Chinese Academy of Sciences (Master of Bioinformatics)
+- **Sep 2004 - Jul 2008:** Beijing Technology and Business University (Bachelor of Bioengineering)
 
 <br>
 
