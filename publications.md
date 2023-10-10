@@ -9,10 +9,10 @@ Lastest Update: 10th Oct 2023&nbsp;
 ## First/Corresponding Authorship
 
 
-1\. Gao Y, Yang C, He N, Wang J, **Yang Y*.** Integration of TMB and tumor heterogeneity identify an immunologic subtype of melanoma with favorable survival. Oct 2020, **Frontiers in Oncology** **(IF: 4.84)**<br>
+1\. Gao Y, Yang C, He N, Wang J, **Yang Y*.** Integration of TMB and tumor heterogeneity identify an immunologic subtype of melanoma with favorable survival. Oct 2020, **_Frontiers in Oncology_** **(IF: 4.84)**<br>
 
 
-2\. Zhou X#, **Yang Y#**, Ma P, Wang Na, Yang D, Tu Q, Sun B, Xiang T, Zhao X, Hou Z*, Fang X*. TRIM44 is indispensable for glioma cell proliferation and cell cycle progression through AKT/p21/p27 signaling pathway. **Journal of Neuro-Oncology**, November 2019, 145(2), pp 211–222 **(IF: 3.129)**<br>
+2\. Zhou X#, **Yang Y#**, Ma P, Wang Na, Yang D, Tu Q, Sun B, Xiang T, Zhao X, Hou Z*, Fang X*. TRIM44 is indispensable for glioma cell proliferation and cell cycle progression through AKT/p21/p27 signaling pathway. **_Journal of Neuro-Oncology_**, November 2019, 145(2), pp 211–222 **(IF: 3.129)**<br>
 
 
 3\. **Yang Y#**, Zhang T#, Qu H, Xie B, Fang X*. Platform-independent approach for cancer detection from gene expression profiles of peripheral blood cells. **Brief Bioinform**. 2019 Mar 20. pii: bbz027. doi: 10.1093/bib/bbz027. [Epub ahead of print] **(IF: 9.5)**<br>
