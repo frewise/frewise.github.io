@@ -10,11 +10,11 @@ Lastest Update: 10th Oct 2023&nbsp;
 
 - [Integration of TMB and tumor heterogeneity identify an immunologic subtype of melanoma with favorable survival](https://pubmed.ncbi.nlm.nih.gov/33194669/).<br>Gao Y, Yang C, He N, Wang J, **Yang Y\***. Oct 2020. **_Frontiers in Oncology_**
 
-- [TRIM44 is indispensable for glioma cell proliferation and cell cycle progression through AKT/p21/p27 signaling pathway](https://pubmed.ncbi.nlm.nih.gov/31605296/).<br>Zhou X#, **Yang Y#**, Ma P, Wang Na, Yang D, Tu Q, Sun B, Xiang T, Zhao X, Hou Z*, Fang X*. Nov 2019. **_Journal of Neuro-Oncology_**
+- [TRIM44 is indispensable for glioma cell proliferation and cell cycle progression through AKT/p21/p27 signaling pathway](https://pubmed.ncbi.nlm.nih.gov/31605296/).<br>Zhou X#, **Yang Y#**, Ma P, Wang Na, Yang D, Tu Q, Sun B, Xiang T, Zhao X, Hou Z*, Fang X. Nov 2019. **_Journal of Neuro-Oncology_**
 
-- [Platform-independent approach for cancer detection from gene expression profiles of peripheral blood cells](https://pubmed.ncbi.nlm.nih.gov/30895303/)<br>**Yang Y#**, Zhang T#, Qu H, Xie B, Fang X*. Mar 2019. **_Brief Bioinform_**.
+- [Platform-independent approach for cancer detection from gene expression profiles of peripheral blood cells](https://pubmed.ncbi.nlm.nih.gov/30895303/)<br>**Yang Y#**, Zhang T#, Qu H, Xie B, Fang X. Mar 2019. **_Brief Bioinform_**.
 
-- [GliomaDB: a Database of Integrating Glioma Precision Medicine Data](https://pubmed.ncbi.nlm.nih.gov/31811943/).<br>**Yang Y**, Sui Y, Xie B, Qu H, Fang X*. Aug 2018. **_Genomics Proteomics Bioinformatics._**
+- [GliomaDB: a Database of Integrating Glioma Precision Medicine Data](https://pubmed.ncbi.nlm.nih.gov/31811943/).<br>**Yang Y**, Sui Y, Xie B, Qu H, Fang X. Aug 2018. **_Genomics Proteomics Bioinformatics._**
 
 - [GSA: Genome Sequence Archive](https://pubmed.ncbi.nlm.nih.gov/28387199/). <br>Wang Y#, Song F#, Zhu J#, Zhang S#, **Yang Y#**, Chen T, Tang B, Dong L, Ding N, Zhang Q, Bai Z, Dong X, Chen H, Sun M, Zhai S, Sun Y, Yu L, Lan L, Xiao J, Fang X, Lei H, Zhang Z, Zhao W. Feb 2017. **_Genomics Proteomics Bioinformatics_**
 
@@ -22,15 +22,15 @@ Lastest Update: 10th Oct 2023&nbsp;
 
 - [Whole genome nucleosome sequencing identifies novel types of forensic markers in degraded DNA samples](https://pubmed.ncbi.nlm.nih.gov/27189082/).<br>Dong C#, **Yang Y#**, Li S, Yang Y, Zhang X, Fang X, Yan J, Cong B. May 2016. **_Sci Rep_**
 
-- [Databases and Web Tools for Cancer Genomics Study]().<br>**Yang Y**, Dong X, Xie B, Ding N, Chen J, Li Y, Zhang Q, Qu H, Fang X*. Feb 2015. **_Genomics Proteomics Bioinformatics_**
+- [Databases and Web Tools for Cancer Genomics Study]().<br>**Yang Y**, Dong X, Xie B, Ding N, Chen J, Li Y, Zhang Q, Qu H, Fang X. Feb 2015. **_Genomics Proteomics Bioinformatics_**
 
 - [Abraxane, the Nanoparticle Formulation of Paclitaxel Can Induce Drug Resistance by Up-Regulation of P-gp](https://pubmed.ncbi.nlm.nih.gov/26182353/). <br>Zhao M#, Lei C#, **Yang Y#**, Bu X, Ma H, Gong H, Liu J, Fang X, Hu Z, Fang Q. Jul 2015. **_PLoS One_**
 
-- [Characterization of miRNomes in acute and chronic myeloid leukemia cell lines](https://pubmed.ncbi.nlm.nih.gov/24755403/).<br>Xiong Q**#**, **Yang Y#**, Wang H, Li J, Wang S, Li Y, Yang Y, Cai K, Ruan X, Yan J, Hu S*, Fang X*. Apr 2014. **_Genomics Proteomics Bioinformatics_**
+- [Characterization of miRNomes in acute and chronic myeloid leukemia cell lines](https://pubmed.ncbi.nlm.nih.gov/24755403/).<br>Xiong Q**#**, **Yang Y#**, Wang H, Li J, Wang S, Li Y, Yang Y, Cai K, Ruan X, Yan J, Hu S, Fang X. Apr 2014. **_Genomics Proteomics Bioinformatics_**
 
-- [Transcriptome Dynamics during Human Erythroid Differentiation and Development](https://pubmed.ncbi.nlm.nih.gov/24121002/).<br>**Yang Y#**, Wang H#, Chang KH#, Qu H, Zhang Z, Xiong Q, Qi H, Cui P, Lin Q, Ruan X, Yang Y, Li Y, Shu C, Li Q, Wakeland EK, Yan J, Hu S*, Fang X*. Dec 2013. **_Genomics_**
+- [Transcriptome Dynamics during Human Erythroid Differentiation and Development](https://pubmed.ncbi.nlm.nih.gov/24121002/).<br>**Yang Y#**, Wang H#, Chang KH#, Qu H, Zhang Z, Xiong Q, Qi H, Cui P, Lin Q, Ruan X, Yang Y, Li Y, Shu C, Li Q, Wakeland EK, Yan J, Hu S, Fang X. Dec 2013. **_Genomics_**
 
-- [Few single nucleotide variations in exomes of human cord blood induced pluripotent stem cells](https://pubmed.ncbi.nlm.nih.gov/23573220/).<br>Su RJ#, **Yang Y#**, Neises A, Payne KJ, Wang J, Viswanathan K, Wakeland EK, Fang X*, Zhang XB*. Apr 2013. **_PLoS One_**
+- [Few single nucleotide variations in exomes of human cord blood induced pluripotent stem cells](https://pubmed.ncbi.nlm.nih.gov/23573220/).<br>Su RJ#, **Yang Y#**, Neises A, Payne KJ, Wang J, Viswanathan K, Wakeland EK, Fang X, Zhang XB. Apr 2013. **_PLoS One_**
 
   <br>
 
