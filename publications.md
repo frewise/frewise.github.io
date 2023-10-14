@@ -18,19 +18,19 @@ Lastest Update: 10th Oct 2023&nbsp;
 
 - [GSA: Genome Sequence Archive](https://pubmed.ncbi.nlm.nih.gov/28387199/). <br>Wang Y#, Song F#, Zhu J#, Zhang S#, **Yang Y#**, Chen T, Tang B, Dong L, Ding N, Zhang Q, Bai Z, Dong X, Chen H, Sun M, Zhai S, Sun Y, Yu L, Lan L, Xiao J, Fang X, Lei H, Zhang Z, Zhao W. Feb 2017. **_Genomics Proteomics Bioinformatics_**
 
-- [miRNome Analysis of CML Cells]().<br>**Yang Y**, Ding N, Dong X, Fang X. 2016. **_Methods Mol Biol._(Springer book)**
+- [miRNome Analysis of CML Cells](https://pubmed.ncbi.nlm.nih.gov/27581150/).<br>**Yang Y**, Ding N, Dong X, Fang X. 2016. **_Methods Mol Biol._(Springer book)**
 
-7\. Dong C**#**, **Yang Y#**, Li S, Yang Y, Zhang X, Fang X, Yan J, Cong B. Whole genome nucleosome sequencing identifies novel types of forensic markers in degraded DNA samples. **_Sci Rep_**. 2016 May 18;6:26101. **(IF: 4.011)**
+- [Whole genome nucleosome sequencing identifies novel types of forensic markers in degraded DNA samples](https://pubmed.ncbi.nlm.nih.gov/27189082/).<br>Dong C#, **Yang Y#**, Li S, Yang Y, Zhang X, Fang X, Yan J, Cong B. May 2016. **_Sci Rep_**
 
-8\. **Yang Y**, Dong X, Xie B, Ding N, Chen J, Li Y, Zhang Q, Qu H, Fang X*. Databases and Web Tools for Cancer Genomics Study. **_Genomics Proteomics Bioinformatics._** 2015 Feb;13(1):46-50. **(IF: 6.597)**
+- [Databases and Web Tools for Cancer Genomics Study]().<br>**Yang Y**, Dong X, Xie B, Ding N, Chen J, Li Y, Zhang Q, Qu H, Fang X*. Feb 2015. **_Genomics Proteomics Bioinformatics_**
 
-9\. Zhao M**#**, Lei C**#**, **Yang Y#**, Bu X, Ma H, Gong H, Liu J, Fang X, Hu Z, Fang Q. Abraxane, the Nanoparticle Formulation of Paclitaxel Can Induce Drug Resistance by Up-Regulation of P-gp. **_PLoS One._** 2015 Jul 16;10(7):e0131429. **(IF: 2.776)**
+- [Abraxane, the Nanoparticle Formulation of Paclitaxel Can Induce Drug Resistance by Up-Regulation of P-gp](https://pubmed.ncbi.nlm.nih.gov/26182353/). <br>Zhao M#, Lei C#, **Yang Y#**, Bu X, Ma H, Gong H, Liu J, Fang X, Hu Z, Fang Q. Jul 2015. **_PLoS One_**
 
-10\. Xiong Q**#**, **Yang Y#**, Wang H, Li J, Wang S, Li Y, Yang Y, Cai K, Ruan X, Yan J, Hu S*, Fang X*. Characterization of miRNomes in acute and chronic myeloid leukemia cell lines. **_Genomics Proteomics Bioinformatics_**. 2014 Apr;12(2):79-91. **(IF: 6.597)**
+- [Characterization of miRNomes in acute and chronic myeloid leukemia cell lines](https://pubmed.ncbi.nlm.nih.gov/24755403/).<br>Xiong Q**#**, **Yang Y#**, Wang H, Li J, Wang S, Li Y, Yang Y, Cai K, Ruan X, Yan J, Hu S*, Fang X*. Apr 2014. **_Genomics Proteomics Bioinformatics_**
 
-11\. **Yang Y#**, Wang H**#**, Chang KH**#**, Qu H, Zhang Z, Xiong Q, Qi H, Cui P, Lin Q, Ruan X, Yang Y, Li Y, Shu C, Li Q, Wakeland EK, Yan J, Hu S*, Fang X*. Transcriptome Dynamics during Human Erythroid Differentiation and Development. **_Genomics_**. 2013;102(5-6):431-41. **(IF: 3.16)**
+- [Transcriptome Dynamics during Human Erythroid Differentiation and Development](https://pubmed.ncbi.nlm.nih.gov/24121002/).<br>**Yang Y#**, Wang H#, Chang KH#, Qu H, Zhang Z, Xiong Q, Qi H, Cui P, Lin Q, Ruan X, Yang Y, Li Y, Shu C, Li Q, Wakeland EK, Yan J, Hu S*, Fang X*. Dec 2013. **_Genomics_**
 
-12\. Su RJ**#**, **Yang Y#**, Neises A, Payne KJ, Wang J, Viswanathan K, Wakeland EK, Fang X*, Zhang XB*. Few single nucleotide variations in exomes of human cord blood induced pluripotent stem cells. **_PLoS One_** 2013; 8: e59908. **(IF: 2.776)**
+- [Few single nucleotide variations in exomes of human cord blood induced pluripotent stem cells](https://pubmed.ncbi.nlm.nih.gov/23573220/).<br>Su RJ**#**, **Yang Y#**, Neises A, Payne KJ, Wang J, Viswanathan K, Wakeland EK, Fang X*, Zhang XB*. Apr 2013. **_PLoS One_**
 
   <br>
 
