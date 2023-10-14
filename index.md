@@ -3,7 +3,6 @@ layout: page
 ---
 
 # About Me
-<img src="images/yangyadong.jpg" class="floatpic" width="360" height="480">
 
 Here is **Yadong Yang (杨亚东)**.
 
