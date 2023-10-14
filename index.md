@@ -4,9 +4,7 @@ layout: page
 
 # About Me
 
-Here is **Yadong Yang (杨亚东)**.
-
-I am now working in Biochain Institute as director of **Bioinformatics**. 
+Here is **Yadong Yang (杨亚东)**.<br>I am now working in Biochain Institute as director of **Bioinformatics**. 
 Currently, I am developing products and services for cancer diagnostics. Here is [[my CV](https://genegps.com/file/CV-YadongYang.pdf)].
 
 <br>
