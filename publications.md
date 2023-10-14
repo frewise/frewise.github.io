@@ -8,12 +8,12 @@ Lastest Update: 10th Oct 2023&nbsp;
 
 ## First/Corresponding Authorship
 
-1.Gao Y, Yang C, He N, Wang J, **Yang Y*.** Integration of TMB and tumor heterogeneity identify an immunologic subtype of melanoma with favorable survival. Oct 2020, **_Frontiers in Oncology_** **(IF: 4.84)**
-2.Zhou X#, **Yang Y#**, Ma P, Wang Na, Yang D, Tu Q, Sun B, Xiang T, Zhao X, Hou Z*, Fang X*. TRIM44 is indispensable for glioma cell proliferation and cell cycle progression through AKT/p21/p27 signaling pathway. **_Journal of Neuro-Oncology_**, November 2019, 145(2), pp 211–222 **(IF: 3.129)**
-3.**Yang Y#**, Zhang T#, Qu H, Xie B, Fang X*. Platform-independent approach for cancer detection from gene expression profiles of peripheral blood cells. **Brief Bioinform**. 2019 Mar 20. pii: bbz027. doi: 10.1093/bib/bbz027. [Epub ahead of print] **(IF: 9.5)**
+- Gao Y, Yang C, He N, Wang J, **Yang Y*.** Integration of TMB and tumor heterogeneity identify an immunologic subtype of melanoma with favorable survival. Oct 2020, **_Frontiers in Oncology_** **(IF: 4.84)**
+- Zhou X#, **Yang Y#**, Ma P, Wang Na, Yang D, Tu Q, Sun B, Xiang T, Zhao X, Hou Z*, Fang X*. TRIM44 is indispensable for glioma cell proliferation and cell cycle progression through AKT/p21/p27 signaling pathway. **_Journal of Neuro-Oncology_**, November 2019, 145(2), pp 211–222 **(IF: 3.129)**
+- **Yang Y#**, Zhang T#, Qu H, Xie B, Fang X*. Platform-independent approach for cancer detection from gene expression profiles of peripheral blood cells. **_Brief Bioinform_**. 2019 Mar 20. pii: bbz027. doi: 10.1093/bib/bbz027. [Epub ahead of print] **(IF: 9.5)**
 
 
-4\. **Yang Y**, Sui Y, Xie B, Qu H, Fang X*. GliomaDB: a Database of Integrating Glioma Precision Medicine Data._ _**_Genomics Proteomics Bioinformatics._** 2018. [Epub ahead of print] **(IF: 6.597)**
+4\. **Yang Y**, Sui Y, Xie B, Qu H, Fang X*. GliomaDB: a Database of Integrating Glioma Precision Medicine Data. **_Genomics Proteomics Bioinformatics._** 2018. [Epub ahead of print] **(IF: 6.597)**
 
 
 5\. Wang Y**#**, Song F**#**, Zhu J**#**, Zhang S**#**, **Yang Y#**, Chen T, Tang B, Dong L, Ding N, Zhang Q, Bai Z, Dong X, Chen H, Sun M, Zhai S, Sun Y, Yu L, Lan L, Xiao J, Fang X, Lei H, Zhang Z, Zhao W (2017) GSA: Genome Sequence Archive. **_Genomics Proteomics Bioinformatics_** 15 (1):14-18. doi:10.1016/j.gpb.2017.01.001 **(IF: 6.597)**
@@ -50,13 +50,13 @@ Lastest Update: 10th Oct 2023&nbsp;
 
 6\. Zhang Q, Ding N, Zhang L, Zhao X, **Yang Y**, Qu H, Fang X. Biological Databases for Hematology Research. **_Genomics Proteomics Bioinformatics_**. 2016 Dec;14(6):333-337. doi: 10.1016/j.gpb.2016.10.004. Epub 2016 Dec 11.
 
-7\. 张韬, **杨亚东**, 方向东*. 应用于精准医学研究的转录组可变剪接分析. **发育医学电子杂志**, 2016; 4(2): 83-89
+7\. 张韬, **杨亚东**, 方向东*. 应用于精准医学研究的转录组可变剪接分析. **_发育医学电子杂志_**, 2016; 4(2): 83-89
 
-8\. 谢兵兵, **杨亚东**, 方向东*. 整合分析多组学数据筛选疾病靶点的精准医学策略. **遗传**,** **2015; 37(7): 655-663
+8\. 谢兵兵, **杨亚东**, 方向东*. 整合分析多组学数据筛选疾病靶点的精准医学策略. **_遗传_**, 2015; 37(7): 655-663
 
-9\. 李艳明, **杨亚东**, 张昭军, 方向东*. 精准医学大数据的分析与共享. **中国医学前沿杂志**, 2015; 7(6): 4-10
+9\. 李艳明, **杨亚东**, 张昭军, 方向东*. 精准医学大数据的分析与共享. **_中国医学前沿杂志_**, 2015; 7(6): 4-10
 
-10\. Li Y, Liu S, Sun H, **Yang Y**, Qi H, Ding N, Zheng J, Dong X, Qu H, Zhang Z, Fang X. MiR-218 Inhibits Erythroid Differentiation and Alters Iron Metabolism by Targeting ALAS2 in K562 Cells. **_Int J Mol Sci_**_._ 2015 Nov 26;16(12):28156-68.
+10\. Li Y, Liu S, Sun H, **Yang Y**, Qi H, Ding N, Zheng J, Dong X, Qu H, Zhang Z, Fang X. MiR-218 Inhibits Erythroid Differentiation and Alters Iron Metabolism by Targeting ALAS2 in K562 Cells. **_Int J Mol Sci_**. 2015 Nov 26;16(12):28156-68.
 
 11\. Ding N, Wang S, Yang Q, Li Y, Cheng H, Wang J, Wang D, Deng Y, **Yang Y**, Hu S, Zhao H, Fang X. Deep sequencing analysis of microRNA expression in human melanocyte and melanoma cell lines. **_Gene_**. 2015 Nov 1;572(1):135-45.
 
