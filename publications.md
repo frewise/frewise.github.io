@@ -26,7 +26,7 @@ Lastest Update: 10th Oct 2023&nbsp;
 
 - [Abraxane, the Nanoparticle Formulation of Paclitaxel Can Induce Drug Resistance by Up-Regulation of P-gp](https://pubmed.ncbi.nlm.nih.gov/26182353/). <br>Zhao M#, Lei C#, **Yang Y#**, Bu X, Ma H, Gong H, Liu J, Fang X, Hu Z, Fang Q. Jul 2015. **_PLoS One_**
 
-- [Characterization of miRNomes in acute and chronic myeloid leukemia cell lines](https://pubmed.ncbi.nlm.nih.gov/24755403/).<br>Xiong Q**#**, **Yang Y#**, Wang H, Li J, Wang S, Li Y, Yang Y, Cai K, Ruan X, Yan J, Hu S, Fang X. Apr 2014. **_Genomics Proteomics Bioinformatics_**
+- [Characterization of miRNomes in acute and chronic myeloid leukemia cell lines](https://pubmed.ncbi.nlm.nih.gov/24755403/).<br>Xiong Q#, **Yang Y#**, Wang H, Li J, Wang S, Li Y, Yang Y, Cai K, Ruan X, Yan J, Hu S, Fang X. Apr 2014. **_Genomics Proteomics Bioinformatics_**
 
 - [Transcriptome Dynamics during Human Erythroid Differentiation and Development](https://pubmed.ncbi.nlm.nih.gov/24121002/).<br>**Yang Y#**, Wang H#, Chang KH#, Qu H, Zhang Z, Xiong Q, Qi H, Cui P, Lin Q, Ruan X, Yang Y, Li Y, Shu C, Li Q, Wakeland EK, Yan J, Hu S, Fang X. Dec 2013. **_Genomics_**
 
