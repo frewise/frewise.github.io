@@ -8,11 +8,11 @@ Lastest Update: 10th Oct 2023&nbsp;
 
 ## First/Corresponding Authorship
 
-- Gao Y, Yang C, He N, Wang J, **Yang Y*.** [Integration of TMB and tumor heterogeneity identify an immunologic subtype of melanoma with favorable survival.](https://pubmed.ncbi.nlm.nih.gov/33194669/) Oct 2020, **_Frontiers in Oncology_** **(IF: 4.84)**
+- [Integration of TMB and tumor heterogeneity identify an immunologic subtype of melanoma with favorable survival](https://pubmed.ncbi.nlm.nih.gov/33194669/).<br>Gao Y, Yang C, He N, Wang J, **Yang Y*.**<br>Oct 2020, **_Frontiers in Oncology_**
 
-- [TRIM44 is indispensable for glioma cell proliferation and cell cycle progression through AKT/p21/p27 signaling pathway.](https://pubmed.ncbi.nlm.nih.gov/31605296/)<br>Zhou X#, **Yang Y#**, Ma P, Wang Na, Yang D, Tu Q, Sun B, Xiang T, Zhao X, Hou Z*, Fang X*.<br> November 2019, 145(2), pp 211–222 **_Journal of Neuro-Oncology_** **(IF: 3.129)**
+- [TRIM44 is indispensable for glioma cell proliferation and cell cycle progression through AKT/p21/p27 signaling pathway](https://pubmed.ncbi.nlm.nih.gov/31605296/).<br>Zhou X#, **Yang Y#**, Ma P, Wang Na, Yang D, Tu Q, Sun B, Xiang T, Zhao X, Hou Z*, Fang X*.<br> Nov 2019, **_Journal of Neuro-Oncology_**
 
-- **Yang Y#**, Zhang T#, Qu H, Xie B, Fang X*. [Platform-independent approach for cancer detection from gene expression profiles of peripheral blood cells.](https://pubmed.ncbi.nlm.nih.gov/30895303/) 2019 Mar 20. pii: bbz027. doi: 10.1093/bib/bbz027. **_Brief Bioinform_**. **(IF: 9.5)**
+- [Platform-independent approach for cancer detection from gene expression profiles of peripheral blood cells](https://pubmed.ncbi.nlm.nih.gov/30895303/)<br>**Yang Y#**, Zhang T#, Qu H, Xie B, Fang X*.<br>Mar 2019 Mar. **_Brief Bioinform_**.
 
 
 4\. **Yang Y**, Sui Y, Xie B, Qu H, Fang X*. GliomaDB: a Database of Integrating Glioma Precision Medicine Data. **_Genomics Proteomics Bioinformatics._** 2018. [Epub ahead of print] **(IF: 6.597)**
