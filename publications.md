@@ -30,7 +30,7 @@ Lastest Update: 10th Oct 2023&nbsp;
 
 - [Transcriptome Dynamics during Human Erythroid Differentiation and Development](https://pubmed.ncbi.nlm.nih.gov/24121002/).<br>**Yang Y#**, Wang H#, Chang KH#, Qu H, Zhang Z, Xiong Q, Qi H, Cui P, Lin Q, Ruan X, Yang Y, Li Y, Shu C, Li Q, Wakeland EK, Yan J, Hu S*, Fang X*. Dec 2013. **_Genomics_**
 
-- [Few single nucleotide variations in exomes of human cord blood induced pluripotent stem cells](https://pubmed.ncbi.nlm.nih.gov/23573220/).<br>Su RJ**#**, **Yang Y#**, Neises A, Payne KJ, Wang J, Viswanathan K, Wakeland EK, Fang X*, Zhang XB*. Apr 2013. **_PLoS One_**
+- [Few single nucleotide variations in exomes of human cord blood induced pluripotent stem cells](https://pubmed.ncbi.nlm.nih.gov/23573220/).<br>Su RJ#, **Yang Y#**, Neises A, Payne KJ, Wang J, Viswanathan K, Wakeland EK, Fang X*, Zhang XB*. Apr 2013. **_PLoS One_**
 
   <br>
 
