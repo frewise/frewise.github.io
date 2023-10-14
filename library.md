@@ -1,5 +1,7 @@
 ---
 layout: page
+permalink: /library/index.html
+title: Blogs
 ---
 
 # Library
