@@ -8,19 +8,17 @@ Lastest Update: 10th Oct 2023&nbsp;
 
 ## First/Corresponding Authorship
 
-- [Integration of TMB and tumor heterogeneity identify an immunologic subtype of melanoma with favorable survival](https://pubmed.ncbi.nlm.nih.gov/33194669/).<br>Gao Y, Yang C, He N, Wang J, **Yang Y\***.<br>Oct 2020, **_Frontiers in Oncology_**
+- [Integration of TMB and tumor heterogeneity identify an immunologic subtype of melanoma with favorable survival](https://pubmed.ncbi.nlm.nih.gov/33194669/).<br>Gao Y, Yang C, He N, Wang J, **Yang Y\***. Oct 2020, **_Frontiers in Oncology_**
 
-- [TRIM44 is indispensable for glioma cell proliferation and cell cycle progression through AKT/p21/p27 signaling pathway](https://pubmed.ncbi.nlm.nih.gov/31605296/).<br>Zhou X#, **Yang Y～#～**, Ma P, Wang Na, Yang D, Tu Q, Sun B, Xiang T, Zhao X, Hou Z*, Fang X*.<br> Nov 2019, **_Journal of Neuro-Oncology_**
+- [TRIM44 is indispensable for glioma cell proliferation and cell cycle progression through AKT/p21/p27 signaling pathway](https://pubmed.ncbi.nlm.nih.gov/31605296/).<br>Zhou X#, **Yang Y#**, Ma P, Wang Na, Yang D, Tu Q, Sun B, Xiang T, Zhao X, Hou Z*, Fang X*. Nov 2019, **_Journal of Neuro-Oncology_**
 
-- [Platform-independent approach for cancer detection from gene expression profiles of peripheral blood cells](https://pubmed.ncbi.nlm.nih.gov/30895303/)<br>**Yang Y^#**, Zhang T#, Qu H, Xie B, Fang X*.<br>Mar 2019 Mar. **_Brief Bioinform_**.
+- [Platform-independent approach for cancer detection from gene expression profiles of peripheral blood cells](https://pubmed.ncbi.nlm.nih.gov/30895303/)<br>**Yang Y#**, Zhang T#, Qu H, Xie B, Fang X*. Mar 2019. **_Brief Bioinform_**.
 
+- [GliomaDB: a Database of Integrating Glioma Precision Medicine Data](https://pubmed.ncbi.nlm.nih.gov/31811943/).<br>**Yang Y**, Sui Y, Xie B, Qu H, Fang X*. Aug 2018. **_Genomics Proteomics Bioinformatics._**
 
-4\. **Yang Y**, Sui Y, Xie B, Qu H, Fang X*. GliomaDB: a Database of Integrating Glioma Precision Medicine Data. **_Genomics Proteomics Bioinformatics._** 2018. [Epub ahead of print] **(IF: 6.597)**
+- [GSA: Genome Sequence Archive](https://pubmed.ncbi.nlm.nih.gov/28387199/). <br>Wang Y#, Song F#, Zhu J#, Zhang S#, **Yang Y#**, Chen T, Tang B, Dong L, Ding N, Zhang Q, Bai Z, Dong X, Chen H, Sun M, Zhai S, Sun Y, Yu L, Lan L, Xiao J, Fang X, Lei H, Zhang Z, Zhao W. Feb 2017. **_Genomics Proteomics Bioinformatics_**
 
-
-5\. Wang Y**#**, Song F**#**, Zhu J**#**, Zhang S**#**, **Yang Y#**, Chen T, Tang B, Dong L, Ding N, Zhang Q, Bai Z, Dong X, Chen H, Sun M, Zhai S, Sun Y, Yu L, Lan L, Xiao J, Fang X, Lei H, Zhang Z, Zhao W (2017) GSA: Genome Sequence Archive. **_Genomics Proteomics Bioinformatics_** 15 (1):14-18. doi:10.1016/j.gpb.2017.01.001 **(IF: 6.597)**
-
-6\. **Yang Y**, Ding N, Dong X, Fang X. miRNome Analysis of CML Cells. **_Methods Mol Biol. _**2016;1465:207-17. doi: 10.1007/978-1-4939-4011-0_17. **(Springer book)**
+- [miRNome Analysis of CML Cells]().<br>**Yang Y**, Ding N, Dong X, Fang X. 2016. **_Methods Mol Biol._(Springer book)**
 
 7\. Dong C**#**, **Yang Y#**, Li S, Yang Y, Zhang X, Fang X, Yan J, Cong B. Whole genome nucleosome sequencing identifies novel types of forensic markers in degraded DNA samples. **_Sci Rep_**. 2016 May 18;6:26101. **(IF: 4.011)**
 
