@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /library/index.html
-title: Blogs
+title: Library
 ---
 
 # Library
