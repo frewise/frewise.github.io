@@ -39,8 +39,7 @@ links:
   - title: Publications
     url: /publications/
   - title: Library
-    url: http://library.genegps.com
-    external: true
+    url: /library/
 #  - title: Fundings
 #    url: /fundings/
 #  - title: Hobbies
