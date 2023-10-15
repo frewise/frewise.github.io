@@ -4,7 +4,11 @@ permalink: /tests/index.html
 title: Tests
 ---
 
-## Fundings
+# Library
 
-- Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Funding $3000** (Grant No. 202310386056)<br>China National Undergraduate Innovation and Entrepreneurship Training Program<br>Project Leader & Student Investigator (2023-2024)<br><br>
-- Community Monitoring System based on Smart IoT and Inspection Vehicle<br>**Funding $1000** (Grant No. 2023080208)<br>National Youth Science Innovation Project Competition Award<br>Project Leader & Student Investigator (2023)<br><br>
+<img src="images/Library.jpg" class="floatpic" width="640" height="360">
+<br>
+Here is a **private** [library](http://library.genegps.com) I use for backup my ebooks, which also allow anonymously browsing. If you need some of them by chance, you could contact me through wechat(theyyd).
+
+
+<br>
