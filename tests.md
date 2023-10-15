@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /library/index.html
-title: Library
+permalink: /tests/index.html
+title: Tests
 ---
 
 ## Library
