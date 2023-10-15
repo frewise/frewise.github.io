@@ -40,8 +40,8 @@ links:
     url: /publications/
   - title: Library
     url: /tests/
-  - title: Tests
-    url: /tests/
+#  - title: Tests
+#    url: /tests/
 #  - title: Fundings
 #    url: /fundings/
 #  - title: Hobbies
