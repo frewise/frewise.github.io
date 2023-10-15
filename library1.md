@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /library/index.html
+permalink: /library1/index.html
 title: Library
 ---
 
