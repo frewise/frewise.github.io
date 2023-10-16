@@ -6,7 +6,7 @@ title: Publications
 
 Lastest Update: 10th Oct 2023&nbsp;
 
-[Google scholar](https://scholar.google.com/citations?hl=en&tzom=-480&user=vBvjwDsAAAAJ) for reference.
+Selected publication, please go to [Google scholar](https://scholar.google.com/citations?hl=en&tzom=-480&user=vBvjwDsAAAAJ) for a full list.
 
 ## First/Corresponding Authorship
 
