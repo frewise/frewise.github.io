@@ -6,7 +6,9 @@ title: Publications
 
 Lastest Update: 10th Oct 2023&nbsp;
 
-## Herein are displayed some published articles, should one wish to obtain the complete information, reference can be made to my [Google Scholar page](https://scholar.google.com/citations?hl=en&tzom=-480&user=vBvjwDsAAAAJ).
+## Selected publications
+
+Herein are displayed some published articles, should one wish to obtain the complete information, reference can be made to my [Google Scholar page](https://scholar.google.com/citations?hl=en&tzom=-480&user=vBvjwDsAAAAJ).
 
 ### First/Corresponding Authorship
 
