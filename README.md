@@ -4,7 +4,7 @@ My name is **Yadong Yang (杨亚东)**. Here is my personal website. Welcome to 
 
 ## Update and News
 
-- **Oct. 2023:** My personal website have been implemented and deployed in [caihanlin.com](https://caihanlin.com)
+- **Oct. 2023:** My personal website have been implemented and deployed in [genegps.com](https://genegps.com)
 
 ## Statement
 
