@@ -11,7 +11,7 @@ title: Library
 Here is a **[private library](http://library.genegps.com)**  I use for backup my ebooks, which also allow anonymously browsing. If you need some of them by chance, feel free to contact me through wechat (theyyd).<br>
 
 
-[![Library](/images/Library.jpg "Library")](http://library.genegps.com/)<br>
+[![Library](/images/Library.jpg "Library"#pic_left)](http://library.genegps.com/)<br>
 
 ---
 
