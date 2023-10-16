@@ -6,9 +6,9 @@ title: Publications
 
 Lastest Update: 10th Oct 2023&nbsp;
 
-Selected publication, please go to [Google scholar](https://scholar.google.com/citations?hl=en&tzom=-480&user=vBvjwDsAAAAJ) for a full list.
+## Herein are displayed some published articles, should one wish to obtain the complete information, reference can be made to my [Google Scholar page](https://scholar.google.com/citations?hl=en&tzom=-480&user=vBvjwDsAAAAJ).
 
-## First/Corresponding Authorship
+### First/Corresponding Authorship
 
 - [Integration of TMB and tumor heterogeneity identify an immunologic subtype of melanoma with favorable survival](https://pubmed.ncbi.nlm.nih.gov/33194669/).<br>Gao Y, Yang C, He N, Wang J, **Yang Y\***. Oct 2020. **_Frontiers in Oncology_**
 
@@ -38,7 +38,7 @@ Selected publication, please go to [Google scholar](https://scholar.google.com/c
 
 ---
 
-## Other Authorship
+### Other Authorship
 
 1\. Xu Z, Cheng S, Qiu X, Wang X, Hu Q, Shi Y, Liu Y, Lin J, Tian J, Peng Y, Jiang Y, **Yang Y**, Ye J, Wang Y, Meng X, Li Z, Li H, Wang Y. A Pipeline for Sample Tagging of Whole Genome Bisulfite Sequencing Data Using Genotypes of Whole Genome Sequencing. Jun 2023, **_BMC Genomics_ (IF: 4.4)**
 
