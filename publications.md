@@ -6,6 +6,8 @@ title: Publications
 
 Lastest Update: 10th Oct 2023&nbsp;
 
+[Google scholar](https://scholar.google.com/citations?hl=en&tzom=-480&user=vBvjwDsAAAAJ) for reference.
+
 ## First/Corresponding Authorship
 
 - [Integration of TMB and tumor heterogeneity identify an immunologic subtype of melanoma with favorable survival](https://pubmed.ncbi.nlm.nih.gov/33194669/).<br>Gao Y, Yang C, He N, Wang J, **Yang Y\***. Oct 2020. **_Frontiers in Oncology_**
