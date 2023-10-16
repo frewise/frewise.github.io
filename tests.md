@@ -13,8 +13,8 @@ Here is a **[private library](http://library.genegps.com)**  I use for backup my
 
 Here is a list of examples:<br>
 
-| Title Sort | Authors |
-|---|---|
+| Book | Authors |
+|:---:|:---:|
 | MIT Technology Review 03.04 2022 | MIT |
 | MIT Technology Review 01.02 2022 | MIT |
 | MIT Technology Review 11.12 2021 | MIT |
