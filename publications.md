@@ -82,6 +82,8 @@ Lastest Update: 10th Oct 2023&nbsp;
 
 22\. Li Y**#**, Wang H**#**, Yang B**#**, Yang J, Ruan X, **Yang Y**, Wakeland EK, Li Q, Fang X*. Influence of Carbon Monoxide on Growth and Apoptosis of Human Umbilical Artery Smooth Muscle Cells and Vein Endothelial Cells. **_Int J Biol Sci._** 2012; 8(10): 1431–1446.
 
+{% include https://scholar.google.com/citations?hl=en&tzom=-480&user=vBvjwDsAAAAJ %} 
+
 
   <br>
 
