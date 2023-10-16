@@ -11,6 +11,8 @@ title: Library
 <br>
 Here is a **[private library](http://library.genegps.com)**  I use for backup my ebooks, which also allow anonymously browsing. If you need some of them by chance, feel free to contact me through wechat (theyyd).
 
+[![Library](/images/Library.jpg "Library")]([https://markdown.com.cn](http://library.genegps.com/))
+
 Here is a list of examples:<br>
 
 | Book | Authors |
