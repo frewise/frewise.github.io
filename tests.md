@@ -8,7 +8,7 @@ title: Library
 
 
 <br>
-Here is a **[private library](http://library.genegps.com)**  I use for backup my ebooks, which also allow anonymously browsing. If you need some of them by chance, feel free to contact me through wechat (theyyd).<br><br>
+Here is a **[private library](http://library.genegps.com)**  I use for backup my ebooks, which also allow anonymously browsing. If you need some of them by chance, feel free to contact me through wechat (Genegps).<br><br>
 
 
 [![Library](/images/calibre.png#pic_left=1503x886)](http://library.genegps.com/)<br>
