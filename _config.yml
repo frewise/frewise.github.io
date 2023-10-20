@@ -35,8 +35,8 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Resume
-    url: /file/CV-YadongYang.pdf
+#  - title: Resume
+    #url: /file/CV-YadongYang.pdf
   - title: Publications
     url: /publications/
   - title: Library
