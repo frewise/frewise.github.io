@@ -41,6 +41,8 @@ links:
     url: /publications/
   - title: Library
     url: /tests/
+  - title: AIGC
+    url: /aigc/
 #  - title: Library1
 #    url: /library1/
 #  - title: Tests
