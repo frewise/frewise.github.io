@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /aigc/index.html
-title: Aigc
+title: AIGC
 ---
 
 ## List of AutoAgents
