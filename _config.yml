@@ -39,12 +39,13 @@ links:
     #url: /file/CV-YadongYang.pdf
   - title: Publications
     url: /publications/
+  - title: Patents
+    url: /patents/
   - title: Library
     url: /tests/
   - title: AIGC
     url: /aigc/
-  - title: Patents
-    url: /patents/
+
 #  - title: Library1
 #    url: /library1/
 #  - title: Tests
