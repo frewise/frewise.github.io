@@ -6,11 +6,11 @@ title: Publications
 
 Lastest Update: 10th Oct 2023&nbsp;
 
-## Selected publications
+# Selected publications
 
 Herein are displayed some published articles, should one wish to obtain the complete information, reference can be made to my **[Google Scholar page](https://scholar.google.com/citations?hl=en&tzom=-480&user=vBvjwDsAAAAJ)** or **[ResearchGate](https://www.researchgate.net/profile/Yadong-Yang-2)**.
 
-### First/Corresponding Authorship
+## First/Corresponding Authorship
 
 - [Integration of TMB and tumor heterogeneity identify an immunologic subtype of melanoma with favorable survival](https://pubmed.ncbi.nlm.nih.gov/33194669/).<br>Gao Y, Yang C, He N, Wang J, **Yang Y\***. Oct 2020. **_Frontiers in Oncology_**
 
@@ -40,7 +40,7 @@ Herein are displayed some published articles, should one wish to obtain the comp
 
 ---
 
-### Other Authorship
+## Other Authorship
 
 1\. Xu Z, Cheng S, Qiu X, Wang X, Hu Q, Shi Y, Liu Y, Lin J, Tian J, Peng Y, Jiang Y, **Yang Y**, Ye J, Wang Y, Meng X, Li Z, Li H, Wang Y. A Pipeline for Sample Tagging of Whole Genome Bisulfite Sequencing Data Using Genotypes of Whole Genome Sequencing. Jun 2023, **_BMC Genomics_ (IF: 4.4)**
 
@@ -86,7 +86,29 @@ Herein are displayed some published articles, should one wish to obtain the comp
 
 22\. Li Y**#**, Wang H**#**, Yang B**#**, Yang J, Ruan X, **Yang Y**, Wakeland EK, Li Q, Fang X*. Influence of Carbon Monoxide on Growth and Apoptosis of Human Umbilical Artery Smooth Muscle Cells and Vein Endothelial Cells. **_Int J Biol Sci._** 2012; 8(10): 1431–1446.
 
+## Conference
 
+1\. Ma J, He N, Wang J, Wang L, Jin G, Lin R, Yang Y. CD8A and HAPLN3 expression profiling to reveal an immunologic subtype of bladder cancer with favorable survival. 2020. Journal of Clinical Oncology. American Society of Clinical Oncology
+
+2.\ Fu, Zhichao and Liu, Shenghua and Wang, Jianfei and Zhang, Yiqun and Yang, Yadong and Xu, Tianyuan and Anil, Shrestha and Yan, Yang and Li, Cheng and Zheng, Zongtai and others. Transcriptome analysis of low-risk and high-risk non-muscular invasive bladder cancer patients to reveal disease progression related genes. 2020. Journal of Clinical Oncology. American Society of Clinical Oncology
+
+3.\ Yang, Chunhe and Zhao, Guodong and Wang, Jianfei and Wang, Lingyu and Jin, Ge and Lin, Rongbo and Yang, Yadong. Integration of TMB and tumor heterogeneity identify an immunologic subtype of melanoma with favorable survival. 2020. Journal of Clinical Oncology. American Society of Clinical Oncology
+
+4.\ Wang, Kun and Yang, Yadong and Zhang, Xiaoyu and Li, Juan and Bao, Quan and Wang, Hongwei and Jin, Kemin and Liu, Ming and Liu, Wei and Yan, Xiaoluan and others. Prognostic impact of mutation profiling in Chinese patients with colorectal liver metastases. 2020. Journal of Clinical Oncology. American Society of Clinical Oncology
+
+5.\ Wang, Hai and Yang, Yadong and Hongzhu, QU and Ruan, Xiuyan and Zhang, Zhaojun and Xiong, Qian and Qi, Heyuan and Stamatoyannopoulos, George and Stamatoyannopoulos, John A and Fang, Xiangdong. unctional Analysis of FOXO3A Involved in Erythroid Differentiation. 2012. Blood. American Society of Hematology
+
+6.\ He, Ning and Wang, Jianfei and Wang, Lingyu and Jin, Ge and Lin, Rongbo and Yang, Yadong. Metabolism of tumor cell in tumor micro environment assist immune escape. 2020. Journal of Clinical Oncology. American Society of Clinical Oncology
+
+7.\ Yu, Yao and Lin, Rongbo and He, Ning and Yang, Yadong and Jin, Ge and Wang, Jianfei. Correlation of tumor mutational burden, tumor microenvironment and alterations of driver genes in patients with NSCLC: A retrospective analysis. 2019. Journal of Clinical Oncology. American Society of Clinical Oncology
+
+8.\ He, Ning and Zhang, Yiqun and Yang, Yadong and Wang, Jianfei. Multi-omics prognosis predictive model of metastatic urothelial carcinoma (mUCs) with immunotherapy. 2021. Journal of Clinical Oncology. American Society of Clinical Oncology
+
+9.\ Zhang, Yiqun and Zhao, Guodong and He, Ning and Wang, Lingyu and Wang, Jianfei and Jin, Ge and Lin, Rongbo and Yang, Yadong. Robust prediction of immune checkpoint inhibition therapy for non-small cell lung cancer. 2020. Journal of Clinical Oncology. American Society of Clinical Oncology
+10.\ Jia, Yuanyuan and He, Ning and Yang, Yadong and Huang, Yuliang and Zhang, Xiaoyu and Fu, Zhichao and Xu, Xiaohong and Cao, Jianjun and Wang, Jianfei. Tumor mutation burden and immune microenvironment analysis of urothelial carcinoma. 2021. Journal of Clinical Oncology. American Society of Clinical Oncology
+11.\ Li, Yanming and Liu, Shuge and Hongzhu, QU and Yang, Yadong and Ding, Nan and Ruan, Xiuyan and Stamatoyannopoulos, George and Fang, Xiangdong. PDCD2 Knockdown Promoted Induced Erythroid Differentiation in TF-1 Cells. 2014. Blood. American Society of Hematology
+12.\ Yang, Ping and Ji, Guanghui and Jiang, Qionghui and Lu, Zejun and Yu, Yao and Yang, Yadong and Jin, Ge. Mutation profiles in circulating tumor DNA (ctDNA) to predict the efficacy of sorafenib treatment in patients with advanced hepatocellular carcinoma (HCC). 2019. Journal of Clinical Oncology. American Society of Clinical Oncology
+13.\ Fu, Zhichao and Liu, Shenghua and Wang, Jianfei and He, Ning and Yang, Yadong and Xu, Tianyuan and Anil, Shrestha and Yan, Yang and Li, Cheng and Zheng, Zongtai and others. RNA-seq analysis of non-muscular invasive bladder cancer to reveal different gene expression profiles between smoking and non-smoking patients. 2021. Journal of Clinical Oncology. American Society of Clinical Oncology
 
   <br>
 
