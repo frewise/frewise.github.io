@@ -105,9 +105,12 @@ Herein are displayed some published articles, should one wish to obtain the comp
 8\. He, Ning and Zhang, Yiqun and **Yang Y** and Wang, Jianfei. Multi-omics prognosis predictive model of metastatic urothelial carcinoma (mUCs) with immunotherapy. 2021. **_Journal of Clinical Oncology_**. American Society of Clinical Oncology
 
 9\. Zhang, Yiqun and Zhao, Guodong and He, Ning and Wang, Lingyu and Wang, Jianfei and Jin, Ge and Lin, Rongbo and **Yang Y**. Robust prediction of immune checkpoint inhibition therapy for non-small cell lung cancer. 2020. **_Journal of Clinical Oncology_**. American Society of Clinical Oncology
+
 10\. Jia, Yuanyuan and He, Ning and **Yang Y** and Huang, Yuliang and Zhang, Xiaoyu and Fu, Zhichao and Xu, Xiaohong and Cao, Jianjun and Wang, Jianfei. Tumor mutation burden and immune microenvironment analysis of urothelial carcinoma. 2021. **_Journal of Clinical Oncology_**. American Society of Clinical Oncology
+
 11\. Li, Yanming and Liu, Shuge and Hongzhu, QU and **Yang Y** and Ding, Nan and Ruan, Xiuyan and Stamatoyannopoulos, George and Fang, Xiangdong. PDCD2 Knockdown Promoted Induced Erythroid Differentiation in TF-1 Cells. 2014. **_Blood_**. American Society of Hematology
 12\. Yang, Ping and Ji, Guanghui and Jiang, Qionghui and Lu, Zejun and Yu, Yao and **Yang Y** and Jin, Ge. Mutation profiles in circulating tumor DNA (ctDNA) to predict the efficacy of sorafenib treatment in patients with advanced hepatocellular carcinoma (HCC). 2019. **_Journal of Clinical Oncology_**. American Society of Clinical Oncology
+
 13\. Fu, Zhichao and Liu, Shenghua and Wang, Jianfei and He, Ning and **Yang Y** and Xu, Tianyuan and Anil, Shrestha and Yan, Yang and Li, Cheng and Zheng, Zongtai and others. RNA-seq analysis of non-muscular invasive bladder cancer to reveal different gene expression profiles between smoking and non-smoking patients. 2021. **_Journal of Clinical Oncology_**. American Society of Clinical Oncology
 
   <br>
