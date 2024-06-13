@@ -43,8 +43,8 @@ links:
     url: /patents/
   - title: Library
     url: /tests/
-  - title: AIGC
-    url: /aigc/
+#  - title: AIGC
+#    url: /aigc/
 
 #  - title: Library1
 #    url: /library1/
